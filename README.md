@@ -9,3 +9,8 @@ https://hal.archives-ouvertes.fr/hal-02931963
 
 - 22/01/2021
 M. Picozzi, A. Giovanni Iaccarino, Forecasting the Preparatory Phase of Induced Earthquakes by Recurrent Neural Network. https://www.mdpi.com/2571-9394/3/1/2/htm
+
+
+## Planned papers
+
+- Mousavi M. et al. Earthquake transformer—an attentive deep-learning model for simultaneous earthquake detection and phase picking. https://www.nature.com/articles/s41467-020-17591-w
