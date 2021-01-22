@@ -19,3 +19,6 @@ https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-246X.2010.04709.x
 - Mousavi M. et al. Earthquake transformer—an attentive deep-learning model for simultaneous earthquake detection and phase picking. https://www.nature.com/articles/s41467-020-17591-w
 
 - Deep Clustering to Identify Sources of Urban Seismic Noise in Long Beach, California https://pubs.geoscienceworld.org/ssa/srl/article-abstract/doi/10.1785/0220200164/593124/Deep-Clustering-to-Identify-Sources-of-Urban?redirectedFrom=fulltext
+
+- Seismic features and automatic discrimination of deep and shallow induced-microearthquakes using neural network and logistic regression
+https://academic.oup.com/gji/article/207/1/29/2583533 
