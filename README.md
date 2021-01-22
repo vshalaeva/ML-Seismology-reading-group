@@ -10,6 +10,9 @@ https://hal.archives-ouvertes.fr/hal-02931963
 - 22/01/2021
 M. Picozzi, A. Giovanni Iaccarino, Forecasting the Preparatory Phase of Induced Earthquakes by Recurrent Neural Network. https://www.mdpi.com/2571-9394/3/1/2/htm
 
+- 29/01/2021
+Andreas Köhler,  Matthias Ohrnberger,  Frank Scherbaum, Unsupervised pattern recognition in continuous seismic wavefield records using Self-Organizing Maps 
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-246X.2010.04709.x
 
 ## Planned papers
 
