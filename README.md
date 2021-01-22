@@ -14,3 +14,5 @@ M. Picozzi, A. Giovanni Iaccarino, Forecasting the Preparatory Phase of Induced 
 ## Planned papers
 
 - Mousavi M. et al. Earthquake transformer—an attentive deep-learning model for simultaneous earthquake detection and phase picking. https://www.nature.com/articles/s41467-020-17591-w
+
+- Deep Clustering to Identify Sources of Urban Seismic Noise in Long Beach, California https://pubs.geoscienceworld.org/ssa/srl/article-abstract/doi/10.1785/0220200164/593124/Deep-Clustering-to-Identify-Sources-of-Urban?redirectedFrom=fulltext
