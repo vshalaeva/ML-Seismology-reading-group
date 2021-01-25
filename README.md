@@ -1,6 +1,6 @@
 # ML-Seismology-reading-group
 
-Every Friday at 15h.
+Every Friday at 15h30.
 
 ## Papers
 - 15/01/2021
