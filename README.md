@@ -21,7 +21,6 @@ Deep Clustering to Identify Sources of Urban Seismic Noise in Long Beach, Califo
 Gravitational physics meets Seismology: for this meeting we are going to talk about how seismology helps to detect gravitational waves. There are already a couple of papers out there and they all seem quite interesting. I would say we should focus on two papers to understand the topic better: 
 1. A paper about how an earthquake causes perturbations in the gravitational field: https://authors.library.caltech.edu/94686/1/ggy436.pdf
 2. A paper, which includes some machine learning to cancel out seismic noise to improve detections of graviational waves: https://arxiv.org/pdf/2005.09289.pdf
-3. 
 
 
 ## Planned papers
