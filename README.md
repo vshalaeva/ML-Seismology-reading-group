@@ -22,10 +22,9 @@ Gravitational physics meets Seismology: for this meeting we are going to talk ab
 1. A paper about how an earthquake causes perturbations in the gravitational field: https://authors.library.caltech.edu/94686/1/ggy436.pdf
 2. A paper, which includes some machine learning to cancel out seismic noise to improve detections of graviational waves: https://arxiv.org/pdf/2005.09289.pdf
 
+- 10/03/2021
+Mousavi M. et al. Earthquake transformer—an attentive deep-learning model for simultaneous earthquake detection and phase picking. https://www.nature.com/articles/s41467-020-17591-w
 
 ## Planned papers
-
-- Mousavi M. et al. Earthquake transformer—an attentive deep-learning model for simultaneous earthquake detection and phase picking. https://www.nature.com/articles/s41467-020-17591-w
-
 - Seismic features and automatic discrimination of deep and shallow induced-microearthquakes using neural network and logistic regression
 https://academic.oup.com/gji/article/207/1/29/2583533 
