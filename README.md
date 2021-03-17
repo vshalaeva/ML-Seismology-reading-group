@@ -25,6 +25,10 @@ Gravitational physics meets Seismology: for this meeting we are going to talk ab
 - 10/03/2021
 Mousavi M. et al. Earthquake transformer—an attentive deep-learning model for simultaneous earthquake detection and phase picking. https://www.nature.com/articles/s41467-020-17591-w
 
+- 19/03/2021
+QuakeCast, an Earthquake Forecasting System Using Ionospheric Anomalies and Machine Learning
+https://www.essoar.org/pdfjs/10.1002/essoar.10506273.1
+
 ## Planned papers
 - Seismic features and automatic discrimination of deep and shallow induced-microearthquakes using neural network and logistic regression
 https://academic.oup.com/gji/article/207/1/29/2583533 
