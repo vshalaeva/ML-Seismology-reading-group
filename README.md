@@ -1,6 +1,6 @@
 # ML-Seismology-reading-group
 
-Every Friday at 15h30.
+Every Tuesday at 13h00.
 
 ## Papers
 - 15/01/2021
@@ -28,6 +28,9 @@ Mousavi M. et al. Earthquake transformer—an attentive deep-learning model for 
 - 19/03/2021
 QuakeCast, an Earthquake Forecasting System Using Ionospheric Anomalies and Machine Learning
 https://www.essoar.org/pdfjs/10.1002/essoar.10506273.1
+
+-27/03/2021
+Vincent P., Larochelle H., Lajoie I., Bengio Y., Manzagol P.-A., Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion.
 
 ## Planned papers
 - Seismic features and automatic discrimination of deep and shallow induced-microearthquakes using neural network and logistic regression
