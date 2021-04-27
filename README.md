@@ -29,8 +29,12 @@ Mousavi M. et al. Earthquake transformer—an attentive deep-learning model for 
 QuakeCast, an Earthquake Forecasting System Using Ionospheric Anomalies and Machine Learning
 https://www.essoar.org/pdfjs/10.1002/essoar.10506273.1
 
--27/03/2021
+- 27/04/2021
 Vincent P., Larochelle H., Lajoie I., Bengio Y., Manzagol P.-A., Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion.
+
+- 04/05/2021
+Amato F., Guignar F., Robert S., and Kanevski M. A novel framework for spatio‑temporal predictionof environmental data using deep learning.
+https://www.nature.com/articles/s41598-020-79148-7.pdf
 
 ## Planned papers
 - Seismic features and automatic discrimination of deep and shallow induced-microearthquakes using neural network and logistic regression
